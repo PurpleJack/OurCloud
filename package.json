@@ -1,0 +1,8 @@
+{
+    "name": "OurCloud",
+    "version": "0.1.0",
+    "dependencies":"",
+    "author":"PurpleJack <purplejack.code@gmail.com>",
+    "contributor":"BakaColak <lemaildebaka@mail>",
+    "description":"Un espace de stockage et d'échange de fichiers"
+}
